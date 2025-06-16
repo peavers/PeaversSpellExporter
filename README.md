@@ -60,3 +60,5 @@ addon experience for all players.
 
 This addon was designed to be a clean, lightweight tool for extracting spell information. It uses the modern C_Spell
 APIs when available for maximum compatibility.
+
+<!-- Workflow triggered: 2025-06-16T10:46:06.486963 -->
